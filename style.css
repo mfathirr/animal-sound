@@ -1,0 +1,42 @@
+.l {
+  background-image: url('/assets/images/lion.jpg');
+  background-position: center;
+}
+
+.e {
+  background-image: url('/assets/images/elephant.jpeg');
+  background-position: center;
+}
+
+.m {
+  background-image: url('/assets/images/monkey.jpeg');
+  background-position: center;
+}
+
+.c {
+  background-image: url('/assets/images/cat.jpg');
+  background-position: center;
+}
+
+.b {
+  background-image: url('/assets/images/eagle.jpeg');
+  background-position: center;
+}
+
+.animal {
+  outline: none;
+  border: 10px solid #404b69;
+  font-size: 5rem;
+  /* font-family: 'Arvo', cursive; */
+  line-height: 2;
+  font-weight: 900;
+  color: #acda04;
+  text-shadow: 3px 0 #dbedf3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
